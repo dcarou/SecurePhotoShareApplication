@@ -1,7 +1,7 @@
 # SecurePhotoShareApplication
 Secure Photo Share Application using Java
 
-# How to run PhotoShare?
+How to run PhotoShare?
 
 * 1º - Go to Folder src/Project/
 * 2º - Compile PhotoShareServer and PhotoShareClient (and optionally AddUser)
@@ -32,3 +32,6 @@ Secure Photo Share Application using Java
   PhotoShareClient
 
   java -Djava.security.manager -Djava.security.policy==cliente.pol project.PhotoShareClient -u manel:1234 -a 10.101.148.17:23456 -p mini.jpg
+
+Author
+ * Diogo Carou - diogo@dcarou.com		
